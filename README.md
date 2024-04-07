@@ -22,7 +22,7 @@
 
 1. Клонируйте репозиторий на вашу локальную машину:
 
-git clone [<link>](https://github.com/Iogsothot/AQADockerBank.git)
+git clone https://github.com/Iogsothot/AQADockerBank.git
 2. Перейдите в директорию проекта:
 
 cd bank-account-management
